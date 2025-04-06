@@ -7,7 +7,9 @@
 #include <mutex>
 #include <algorithm>
 
+
 using Maze = std::vector<std::vector<char>>;
+
 
 struct Position {
     int row;
